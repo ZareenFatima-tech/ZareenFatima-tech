@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZareenFatima-tech
-- 👀 I’m interested in Artificial Intelligence.
+- 👀 I’m interested in Artificial Intelligence and did real time projects.
 - 🌱 I’m currently learning Generative AI.
 - 💞️ I’m looking to collaborate on solving real world Problems.
 - 📫 How to reach me zareenfatima114@gmail.com.
