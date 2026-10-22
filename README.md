@@ -1,21 +1,8 @@
-
-<!--
-=====================================================================
- HOW TO USE (30 seconds)
- 1. GitHub -> New repository -> name it EXACTLY:  ZareenFatima-tech
- 2. Set it to Public and tick "Add a README file"
-    (if the repo already exists: open README.md -> pencil icon)
- 3. Select all, paste this file, then Commit
- 4. Search for  [EDIT]  and update anything marked
- Delete this comment block when you are done.
-=====================================================================
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A44E8,100:1B8F69&height=210&section=header&text=Zareen%20Fatima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Workflow%20Architect&descSize=18&descAlignY=58" alt="Zareen Fatima, Agentic AI Engineer" width="100%" />
 
-<a href="https://github.com/ZareenFatima-tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2A44E8&center=true&vCenter=true&width=760&lines=National+Agentic+AI+Hackathon+Winner+%F0%9F%87%B5%F0%9F%87%B0;I+build+production-grade+multi-agent+systems;LangGraph+%7C+CrewAI+%7C+AutoGen+%7C+RAG+%7C+FastAPI;From+notebook+to+live+SaaS" alt="Typing animation" /></a>
+<a href="https://github.com/ZareenFatima-tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2A44E8&center=true&vCenter=true&width=760&lines=National+Agentic+AI+Hackathon+Winner+%F0%9F%87%B5%F0%9F%87%B0;I+build+production-grade+multi-agent+systems;LangGraph+%7C+CrewAI+%7C+AutoGen+%7C+RAG+%7C+FastAPI;5+live+AI+products+shipped+to+production" alt="Typing animation" /></a>
 
 <br/>
 
@@ -41,7 +28,7 @@ I’m an **Agentic AI Engineer** with **4+ years** of experience designing, buil
 I’m the **winner of the National Agentic AI Hackathon (Pakistan)**, have led a team of **7+ engineers across 10+ shipped AI products**, and work fluently with agentic coding tools (**Claude Code, Cursor, Antigravity, Bolt**) while keeping rigorous **human-in-the-loop validation**. I structure codebases and specifications so AI-generated output stays reliable and context-efficient, and I turn agentic workflows into measurable business impact.
 
 - 🎓 Currently: **AI Instructor** at NAVTTC Centre of Excellence in Modern Technologies
-- 🚀 Live products: **SehayatVerse** (telemedicine SaaS), **UniProtXplore** (protein intelligence SaaS) and **AI Smart Supervisor**
+- 🚀 Live products: **SehayatVerse**, **UniProtXplore**, **Smart Supervisor**, **Autonomous Fake Medicine Detection** and **MediConnect**
 - 🤝 Open to: **AI engineering roles, freelance projects and collaborations**
 - 💬 Ask me about: multi-agent orchestration, RAG pipelines, agentic coding workflows, deploying AI as SaaS
 
@@ -61,10 +48,11 @@ I’m the **winner of the National Agentic AI Hackathon (Pakistan)**, have led a
 |---|---|---|
 | 🤖 | **Multi-agent systems** | Autonomous agent pipelines with tool calling, state and memory management, and human-in-the-loop checkpoints (LangGraph, CrewAI, AutoGen) |
 | 🔎 | **RAG pipelines** | Retrieval systems grounded in your data using Pinecone, FAISS, ChromaDB or Weaviate, with measurable relevance gains |
-| 🧩 | **AI SaaS products** | Full-stack Python SaaS with auth, billing and deployment, built around purpose-built agents, not one generic chatbot |
+| 🧩 | **AI SaaS products** | Full-stack SaaS with auth, billing and deployment, built around purpose-built agents, not one generic chatbot |
 | 🎙️ | **Conversational and voice agents** | Chat and voice (TTS/STT) agents designed for real conversations and edge cases |
-| 🧠 | **LLM integration and fine-tuning** | GPT-4, Mistral, LLaMA and Hugging Face models adapted to domain-specific tasks |
-| 🚀 | **Deployment and MLOps** | FastAPI services, Docker, CI/CD and production-ready delivery |
+| 🧠 | **LLM integration and fine-tuning** | GPT-4, Mistral, LLaMA, OpenRouter and Hugging Face models adapted to domain-specific tasks |
+| 👁️ | **Computer vision and ML models** | CNN-based detection and classification, from training to an integrated product |
+| 🚀 | **Deployment and MLOps** | FastAPI and Node.js services, Docker, CI/CD and production-ready delivery |
 | 🏫 | **AI training and mentoring** | Build-first Agentic AI/ML curriculum for teams and learners |
 
 ```mermaid
@@ -145,7 +133,17 @@ flowchart LR
 
 ---
 
-## 🚀 Live SaaS products
+## 🚀 Live products
+
+| Product | What it is | Live | Code |
+|---|---|---|---|
+| 🏥 **SehayatVerse** | AI telemedicine and hospital management SaaS | [sehayatverse.online](https://sehayatverse.online) | Private |
+| 🧬 **UniProtXplore** | Autonomous protein intelligence SaaS | [Open app](https://uni-prot-xplore-frontend-4lnx.vercel.app) | Private |
+| 🎓 **Smart Supervisor** | AI evaluation and supervision portal for final year projects | [Open app](https://smart-supervisor-theta.vercel.app/) | Private |(https://github.com/ZareenFatima-tech/Smart-Supervisor) |
+| 💊 **Fake Medicine Detection** | Autonomous fake medicine verification system | [Open demo](https://fake-medicine-detection-mxg2-p4vdx14dr.vercel.app/) | Private | (https://github.com/ZareenFatima-tech/Fake-Medicine-Detection) |
+| 🩺 **MediConnect** | Online clinic appointment booking for Pakistan | [Open app](https://medi-connect-pakistan.vercel.app/) | Private | (https://github.com/ZareenFatima-tech/MediConnectPakistan) |
+
+---
 
 ### 🏥 SehayatVerse: AI-powered telemedicine and hospital management SaaS
 **🔗 Live:** [sehayatverse.online](https://sehayatverse.online)
@@ -165,6 +163,8 @@ flowchart LR
     S --> A2["Workflow agent 2"]
     S --> A3["Workflow agent N"]
 ```
+
+---
 
 ### 🧬 UniProtXplore: autonomous protein intelligence SaaS
 **🔗 Live:** [uni-prot-xplore-frontend-4lnx.vercel.app](https://uni-prot-xplore-frontend-4lnx.vercel.app)
@@ -188,22 +188,114 @@ flowchart LR
     S7 --> S8["8. Scientific report and insights"]
 ```
 
-### 🧠 AI Smart Supervisor
-**🔗 Live:** [https://smart-supervisor-theta.vercel.app/]()
+---
 
+### 🎓 Smart Supervisor: AI academic evaluation and FYP supervision portal
+**🔗 Live:** [smart-supervisor-theta.vercel.app](https://smart-supervisor-theta.vercel.app/) · **💻 Code:** [GitHub](https://github.com/ZareenFatima-tech/Smart-Supervisor)
 
-Smart Supervisor is an AI-powered academic supervision platform designed to help university students improve their Final Year Projects (FYPs) and help supervisors streamline project evaluation and guidance. It provides AI-assisted academic feedback, support for SRS/SDD documentation guidelines, and supervisor meeting requests in one platform.
+Smart Supervisor is an **AI-powered portal for university final year projects (FYP)**. Students upload a draft **SRS** (Software Requirements Specification, **IEEE 830**) or **SDD** (Software Design Document) as a PDF, text or Markdown file. The system extracts the text, **audits it against IEEE guidelines**, and returns an **authenticity score with actionable feedback**, so students can fix problems before they reach their supervisor.
 
-**How it works:** Students use the platform to access AI-assisted project guidance, evaluate their documentation, and request supervisor meetings. The system is designed to support academic review and supervision workflows.
+It also includes an **AI mentor chatbot** that answers questions on IEEE 830, SDD architecture and how to improve a score, and a **meeting request flow** where students pick an AI-suggested time slot and set an agenda for a supervisor advisory meeting. It automates the IEEE SRS/SDD review work that supervisors normally do by hand.
 
-**My role:** AI Engineer & Project Developer
+**Tech stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-77.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-16.9%25-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-5.6%25-E34F26?style=flat-square&logo=html5&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM%20integration-6467F2?style=flat-square) ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-Domain%20tuned-1B8F69?style=flat-square)
 
-**Result:** Deployed a working web application currently being tested by university professors. Performance improvements and adoption metrics are not yet measured.
+**Architecture**
 
+```mermaid
+flowchart TB
+    ST["Student"] --> UI["Web portal<br/>HTML, CSS, JavaScript"]
+    SV["Supervisor"] --> UI
+
+    UI --> UP["Draft upload<br/>PDF, TXT, MD"]
+    UP --> EX["Text extraction"]
+    EX --> EV["Evaluation engine<br/>IEEE 830 SRS and SDD audit"]
+    EV --> LLM["OpenRouter LLM gateway<br/>fine-tuned for IEEE evaluation"]
+    LLM --> SC["Authenticity score<br/>and feedback report"]
+    SC --> UI
+
+    UI --> CH["AI mentor chatbot"]
+    CH --> LLM
+
+    UI --> MT["Meeting request flow<br/>AI-suggested time slots"]
+    MT --> SV
+```
 
 ---
 
+### 💊 Autonomous Fake Medicine Detection System
+**🔗 Live:** [Open demo](https://fake-medicine-detection-mxg2-p4vdx14dr.vercel.app/) · **💻 Code:** [GitHub](https://github.com/ZareenFatima-tech/Fake-Medicine-Detection) · **My role:** Full Stack AI Engineer
 
+Counterfeit medicine is a serious public health risk. This project is an **end-to-end system that helps people verify medicines and buy them safely**. Users sign up, **verify a medicine with an AI model**, browse a pharmacy shop, add items to a cart, pay at checkout and track their orders. Pharmacists get their own dashboard to **manage incoming orders**. A **"Launch Demo" mode** lets visitors try the platform without an account.
+
+The app is a full stack: a multi-page JavaScript frontend, a **Node.js / Express** backend with a local JSON database for users, medicines, orders and history, and a **Python CNN model** for verification. The `ml_engine.js` module connects the backend to the Python model (or to a simulated model in demo mode).
+
+**Tech stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-48.9%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-43.6%25-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-4.5%25-1572B6?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-1.9%25-3776AB?style=flat-square&logo=python&logoColor=white) ![Batchfile](https://img.shields.io/badge/Batchfile-1.1%25-4D4D4D?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-Deep%20learning-FF6F00?style=flat-square)
+
+**Architecture**
+
+```mermaid
+flowchart TB
+    subgraph FE["Frontend - /frontend"]
+        direction TB
+        LP["index.html<br/>landing page"]
+        DM["DEMO.html<br/>live demo mode"]
+        AU["login.html and signup.html<br/>authentication"]
+        DB["dashboard.html<br/>shop, verify, orders"]
+        PH["pharmacy.html<br/>pharmacist dashboard"]
+        JS["js/<br/>dashboard.js, auth.js,<br/>medicine_shop.js, payment_enhancement.js"]
+    end
+
+    subgraph BE["Backend - /backend"]
+        direction TB
+        SRV["server.js<br/>Node.js and Express API"]
+        DJ[("db.json<br/>users, medicines,<br/>orders, history")]
+        ML["ml_engine.js<br/>AI integration"]
+    end
+
+    subgraph AI["AI model - /ml_model"]
+        direction TB
+        APP["app.py<br/>model inference"]
+        TR["train_cnn.py<br/>CNN training"]
+    end
+
+    USER["Patient or customer"] --> LP
+    USER --> DM
+    PHARM["Pharmacist"] --> PH
+    LP --> AU
+    AU --> DB
+    DB --> JS
+    PH --> JS
+    JS -->|"REST API"| SRV
+    SRV <--> DJ
+    SRV --> ML
+    ML -->|"verify medicine"| APP
+    TR -->|"trained model"| APP
+    APP -->|"authentic or fake"| ML
+```
+
+**How a verification works:** the user opens the dashboard and submits a medicine for verification → `dashboard.js` sends it to the API in `server.js` → `ml_engine.js` passes it to the Python CNN model → the result comes back to the dashboard and is saved to the user’s history.
+
+---
+
+### 🩺 MediConnect: online clinic appointment booking for Pakistan
+**🔗 Live:** [medi-connect-pakistan.vercel.app](https://medi-connect-pakistan.vercel.app/) · **💻 Code:** [GitHub](https://github.com/ZareenFatima-tech/MediConnectPakistan)
+
+MediConnect is a healthcare platform that makes **booking hospital and clinic appointments in Pakistan** simple. Patients can find doctors, **book appointments with real-time availability**, keep their **medical records** (history, prescriptions and test reports) in one place, and pay consultation fees through local options such as **JazzCash, EasyPaisa and debit cards**. Accounts and data run on a **Supabase** backend.
+
+**Tech stack:** ![HTML](https://img.shields.io/badge/HTML-87.6%25-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-7.2%25-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-5.2%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+```mermaid
+flowchart LR
+    PT["Patient"] --> WEB["Web app<br/>HTML, CSS, JavaScript<br/>hosted on Vercel"]
+    WEB --> SB[("Supabase<br/>auth and database")]
+    WEB --> BK["Appointment booking<br/>real-time availability"]
+    WEB --> RC["Medical records"]
+    WEB --> PY["Payments<br/>JazzCash, EasyPaisa, cards"]
+    SB --> BK
+    SB --> RC
+```
+
+---
 
 ## 🧪 Open-source and learning projects
 
@@ -220,7 +312,7 @@ Smart Supervisor is an AI-powered academic supervision platform designed to help
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,flask,docker,git,github,githubactions,supabase,vercel,linux&perline=13" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=py,js,nodejs,express,html,css,pytorch,tensorflow,opencv,fastapi,flask,docker,git,github,githubactions,supabase,vercel,linux&perline=9" alt="Tech stack icons" />
 
 </div>
 
@@ -228,18 +320,19 @@ Smart Supervisor is an AI-powered academic supervision platform designed to help
 |---|---|
 | **Agentic frameworks and orchestration** | LangChain, LangGraph, AutoGen, CrewAI, multi-agent pipelines, tool/function calling, state and memory management, human-in-the-loop design |
 | **Agentic coding tools** | Claude Code, Cursor, Antigravity, Bolt, GitHub Copilot-style workflows |
-| **LLM integration and fine-tuning** | GPT-4, Mistral, LLaMA, Hugging Face Transformers, prompt engineering, domain fine-tuning |
+| **LLM integration and fine-tuning** | GPT-4, Mistral, LLaMA, OpenRouter, Hugging Face Transformers, prompt engineering, domain fine-tuning |
 | **RAG and vector databases** | Pinecone, FAISS, ChromaDB, Weaviate, retrieval-augmented generation, semantic search |
-| **API and backend** | FastAPI, REST API design and integration, Streamlit, Docker, Supabase |
-| **ML / DL and data** | Python, TensorFlow/Keras, PyTorch, Scikit-learn, NumPy, Pandas, OpenCV, NLTK, spaCy |
-| **DevOps and practices** | Git, GitHub, CI/CD, MLOps, Agile/Scrum, embedded systems |
+| **API and backend** | FastAPI, Node.js, Express, REST API design and integration, Streamlit, Docker, Supabase |
+| **Frontend** | JavaScript, HTML, CSS |
+| **ML / DL and data** | Python, TensorFlow/Keras, PyTorch, CNNs, Scikit-learn, NumPy, Pandas, OpenCV, NLTK, spaCy |
+| **DevOps and practices** | Git, GitHub, CI/CD, MLOps, Vercel, Agile/Scrum, embedded systems |
 
 <details>
 <summary><b>🧩 Core competencies</b></summary>
 
 <br/>
 
-Agentic workflow design · Multi-agent orchestration · Human-in-the-loop validation · AI-augmented development · Solution and systems architecture · Context-efficient prompt and spec design · RAG pipeline engineering · LLM fine-tuning and integration · Cross-functional team leadership · Full-stack Python development · Agile/Scrum delivery · Client and stakeholder communication
+Agentic workflow design · Multi-agent orchestration · Human-in-the-loop validation · AI-augmented development · Solution and systems architecture · Context-efficient prompt and spec design · RAG pipeline engineering · LLM fine-tuning and integration · Cross-functional team leadership · Full-stack Python and JavaScript development · Agile/Scrum delivery · Client and stakeholder communication
 
 </details>
 
@@ -323,10 +416,11 @@ Yes. I use Claude Code, Cursor, Antigravity and Bolt to coordinate implementatio
 | | |
 |---|---|
 | 📧 **Email** | zareenfatima114@gmail.com · [write via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=zareenfatima114@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/zareen-fatima-596552283](https://www.linkedin.com/in/zareen-fatima-596552283/) |
-| 🌐 **Portfolio** | [ZareenFatima-tech.github.io](https://ZareenFatima-tech.github.io) *[EDIT: use the exact portfolio link from your CV if different]* |
+| 💼 **LinkedIn** | [linkedin.com/in/zareen-fatima-596552283](https://www.linkedin.com/in/zareen-agentic-aiengineer/) |
+| 🌐 **Portfolio** | [ZareenFatima-tech.github.io](https://ZareenFatima-tech.github.io) |
 | 🏥 **SehayatVerse** | [sehayatverse.online](https://sehayatverse.online) |
 | 🧬 **UniProtXplore** | [uni-prot-xplore-frontend-4lnx.vercel.app](https://uni-prot-xplore-frontend-4lnx.vercel.app) |
+| 🎓 **Smart Supervisor** | [smart-supervisor-theta.vercel.app](https://smart-supervisor-theta.vercel.app/) |
 
 <div align="center">
 
