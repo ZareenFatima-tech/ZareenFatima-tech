@@ -1,5 +1,25 @@
 ## 👋 About me
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/zareen-fatima-596552283/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://ZareenFatima-tech.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:zareenfatima114@gmail.com">
+  <img src="https://img.shields.io/badge/Email-zareenfatima114@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=7DD3FC&background=0D1117&center=true&vCenter=true&width=1000&lines=Agentic+AI+Engineer;Multi-agent+systems;RAG+pipelines;AI+SaaS+products;LLM+platforms+at+scale" alt="Typing banner" />
+
+</div>
+
 I’m an **Agentic AI Engineer** with **4+ years** of experience designing, building and deploying **production-grade autonomous multi-agent systems** with LangChain, LangGraph, CrewAI and AutoGen.
 
 - 🎓 Currently: **AI Instructor** at NAVTTC Centre of Excellence in Modern Technologies
@@ -7,15 +27,20 @@ I’m an **Agentic AI Engineer** with **4+ years** of experience designing, buil
 - 🤝 Open to: **AI engineering roles, freelance projects and collaborations**
 - 💬 Ask me about: multi-agent orchestration, RAG pipelines, agentic coding workflows, deploying AI as SaaS
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zareen-fatima-596552283/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ZareenFatima-tech.github.io)
-[![Email](https://img.shields.io/badge/Email-zareenfatima114@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zareenfatima114@gmail.com)
-
-</div>
-
 **Connect:** [LinkedIn](https://www.linkedin.com/in/zareen-fatima-596552283/), [Portfolio](https://ZareenFatima-tech.github.io), [Email](mailto:zareenfatima114@gmail.com), [write via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=zareenfatima114@gmail.com)
+
+---
+
+## 📈 Impact at a glance
+
+| Metric | Result |
+|---|---|
+| **Years of experience** | 4+ |
+| **AI products shipped** | 10+ |
+| **Teams led** | 7+ engineers |
+| **Operational overhead reduction** | 40% |
+| **RAG relevance improvement** | 60% |
+| **AI system focus** | Multi-agent + RAG + AI SaaS |
 
 ---
 
