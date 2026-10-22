@@ -1,5 +1,3 @@
-
-
 ## 👋 About me
 
 I’m an **Agentic AI Engineer** with **4+ years** of experience designing, building and deploying **production-grade autonomous multi-agent systems** with LangChain, LangGraph, CrewAI and AutoGen.
