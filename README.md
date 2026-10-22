@@ -1,8 +1,8 @@
 ## 👋 About me
 
-I’m an **Agentic AI Engineer** with **4+ years** of experience designing, building and deploying **production-grade autonomous multi-agent systems** with LangChain, LangGraph, CrewAI and AutoGen.
+I’m an **Full Stack AI Engineer** with **3+ years** of experience designing, building and deploying **production-grade autonomous multi-agent systems** with LangChain, LangGraph, Genkit & Applied AI.
 
-I’m the **winner of the National Agentic AI Hackathon (Pakistan)**, have led a team of **7+ engineers across 10+ shipped AI products**, and work fluently with agentic coding tools (**Claude Code, Cursor, Kiro, Antigravity, Bolt**) while keeping rigorous **human-in-the-loop validation**. I structure codebases and specifications so AI-generated output stays reliable and context-efficient, and I turn agentic workflows into measurable business impact.
+I’m the **winner of the National Agentic AI Hackathon (Pakistan) 2025**, have led a team of **7+ engineers across 10+ shipped AI products**, and work fluently with agentic coding tools (**Claude Code, Cursor, Kiro, Antigravity, Bolt**) while keeping rigorous **human-in-the-loop validation**. I structure codebases and specifications so AI-generated output stays reliable and context-efficient, and I turn agentic workflows into measurable business impact.
 
 - 🎓 Currently: **AI Instructor** at NAVTTC Centre of Excellence in Modern Technologies
 - 🚀 Live products: **SehayatVerse**, **UniProtXplore**, **Smart Supervisor**, **Autonomous Fake Medicine Detection** and **MediConnect**
@@ -23,7 +23,7 @@ I’m the **winner of the National Agentic AI Hackathon (Pakistan)**, have led a
 
 | | Service | What you get |
 |---|---|---|
-| 🤖 | **Multi-agent systems** | Autonomous agent pipelines with tool calling, state and memory management, and human-in-the-loop checkpoints (LangGraph, CrewAI, AutoGen) |
+| 🤖 | **Multi-agent systems** | Autonomous agent pipelines with tool calling, state and memory management, and human-in-the-loop checkpoints (LangGraph, langChain, Embeddings, VectorDatabases) |
 | 🔎 | **RAG pipelines** | Retrieval systems grounded in your data using Pinecone, FAISS, ChromaDB or Weaviate, with measurable relevance gains |
 | 🧩 | **AI SaaS products** | Full-stack SaaS with auth, billing and deployment, built around purpose-built agents, not one generic chatbot |
 | 🎙️ | **Conversational and voice agents** | Chat and voice (TTS/STT) agents designed for real conversations and edge cases |
