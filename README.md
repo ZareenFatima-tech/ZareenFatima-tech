@@ -156,13 +156,15 @@ The analysis covers variant impact and stability shifts, druggable pockets and l
 
 ```mermaid
 flowchart LR
-    S1["1. Research question"] --> S2["2. Protein identification"]
-    S2 --> S3["3. Knowledge retrieval"]
-    S3 --> S4["4. Structure analysis"]
-    S4 --> S5["5. Mutation interpretation"]
-    S5 --> S6["6. AI scientific reasoning"]
-    S6 --> S7["7. Interactive visualization"]
-    S7 --> S8["8. Scientific report and insights"]
+    ID[UniProt ID] --> P[8-stage multi-agent pipeline]
+    P --- U[(UniProt)]
+    P --- B[(PDBe)]
+    P --- AF[(AlphaFold)]
+    P --- C[(ChEMBL)]
+    P --- DB[(DrugBank)]
+    P --- PM[(PubMed)]
+    P --> R[Synthesized protein profile]
+```
 ```
 
 ---
