@@ -165,9 +165,7 @@ flowchart LR
     P --- PM[(PubMed)]
     P --> R[Synthesized protein profile]
 ```
-```
 
----
 
 ### 🎓 Smart Supervisor: AI academic evaluation and FYP supervision portal
 **🔗 Live:** [smart-supervisor-theta.vercel.app](https://smart-supervisor-theta.vercel.app/) · **💻 Code:** [GitHub](https://github.com/ZareenFatima-tech/Smart-Supervisor)
