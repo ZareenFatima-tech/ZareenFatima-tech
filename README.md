@@ -1,3 +1,16 @@
+
+<!--
+=====================================================================
+ HOW TO USE (30 seconds)
+ 1. GitHub -> New repository -> name it EXACTLY:  ZareenFatima-tech
+ 2. Set it to Public and tick "Add a README file"
+    (if the repo already exists: open README.md -> pencil icon)
+ 3. Select all, paste this file, then Commit
+ 4. Search for  [EDIT]  and update anything marked
+ Delete this comment block when you are done.
+=====================================================================
+-->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A44E8,100:1B8F69&height=210&section=header&text=Zareen%20Fatima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Workflow%20Architect&descSize=18&descAlignY=58" alt="Zareen Fatima, Agentic AI Engineer" width="100%" />
@@ -28,7 +41,7 @@ I’m an **Agentic AI Engineer** with **4+ years** of experience designing, buil
 I’m the **winner of the National Agentic AI Hackathon (Pakistan)**, have led a team of **7+ engineers across 10+ shipped AI products**, and work fluently with agentic coding tools (**Claude Code, Cursor, Antigravity, Bolt**) while keeping rigorous **human-in-the-loop validation**. I structure codebases and specifications so AI-generated output stays reliable and context-efficient, and I turn agentic workflows into measurable business impact.
 
 - 🎓 Currently: **AI Instructor** at NAVTTC Centre of Excellence in Modern Technologies
-- 🚀 Live products: **SehayatVerse** (telemedicine SaaS) and **UniProtXplore** (protein intelligence SaaS)
+- 🚀 Live products: **SehayatVerse** (telemedicine SaaS), **UniProtXplore** (protein intelligence SaaS) and **AI Smart Supervisor**
 - 🤝 Open to: **AI engineering roles, freelance projects and collaborations**
 - 💬 Ask me about: multi-agent orchestration, RAG pipelines, agentic coding workflows, deploying AI as SaaS
 
@@ -137,7 +150,11 @@ flowchart LR
 ### 🏥 SehayatVerse: AI-powered telemedicine and hospital management SaaS
 **🔗 Live:** [sehayatverse.online](https://sehayatverse.online)
 
-An AI-powered **telemedicine, chronic care and hospital-management ecosystem** for the **Middle East, Asia and emerging markets**. I architected the **multi-agent platform** that connects patients, hospitals and doctors, with each workflow driven by a **purpose-built AI agent** rather than a single chatbot.
+SehayatVerse is an AI-powered healthcare ecosystem that brings **telemedicine, chronic care and hospital management** into one platform. It connects **patients, hospitals, doctors and AI agents** across the **Middle East, Asia and other emerging markets**.
+
+I architected it as a **multi-agent system**: each workflow is driven by its own **purpose-built AI agent** rather than a single generic chatbot, so every part of the care journey gets a tool designed for it.
+
+**My role:** architect of the multi-agent platform
 
 ```mermaid
 flowchart LR
@@ -152,7 +169,11 @@ flowchart LR
 ### 🧬 UniProtXplore: autonomous protein intelligence SaaS
 **🔗 Live:** [uni-prot-xplore-frontend-4lnx.vercel.app](https://uni-prot-xplore-frontend-4lnx.vercel.app)
 
-An **8-stage autonomous multi-agent pipeline** that unifies data from **six research databases** (UniProt, PDBe, AlphaFold, ChEMBL, DrugBank, PubMed) and turns a **single UniProt ID into a synthesized protein profile in minutes**. Shipped as a **tiered SaaS** (Free Trial, Lab Plan, Institution) with **Supabase-backed auth and billing**.
+UniProtXplore is an **autonomous protein intelligence platform** for researchers. Protein data is scattered across many databases, and cross-referencing it by hand takes hours. Enter **one UniProt ID** and a multi-agent pipeline works through **eight stages**, pulling from **UniProt, PDBe, AlphaFold, ChEMBL, DrugBank and PubMed**, then reconciles everything into **one interpretation with a confidence score** instead of a table of raw data.
+
+The analysis covers variant impact and stability shifts, druggable pockets and ligand binding, and PubMed evidence with Gene Ontology terms. Reports export as **FASTA and PDF**. It ships as a **tiered SaaS** (Free Trial, Lab Plan, Institution) with **Supabase-backed auth and billing**.
+
+**My role:** designed and built the pipeline and the SaaS
 
 **Five specialized agents:** Data Acquisition · Structure–Function Analysis · Chemical Interaction · Literature Intelligence · Insight Synthesis
 
@@ -166,6 +187,13 @@ flowchart LR
     S6 --> S7["7. Interactive visualization"]
     S7 --> S8["8. Scientific report and insights"]
 ```
+
+### 🧠 AI Smart Supervisor
+**🔗 Live:** [EDIT: paste the live URL](https://your-live-link)
+
+**[EDIT: one or two sentences on what it is and who it is for.]** [EDIT: how it works, such as the agents, tools or APIs it uses.]
+
+**My role:** [EDIT: your role] · **Result:** [EDIT: a real, measurable outcome, or delete this]
 
 ---
 
