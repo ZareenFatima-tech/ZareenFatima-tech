@@ -191,9 +191,6 @@ flowchart LR
 ### 🧠 AI Smart Supervisor
 **🔗 Live:** [https://smart-supervisor-theta.vercel.app/]()
 
-### Smart Supervisor — AI-Powered Academic Supervision
-
-🔗 **Live Demo:** https://smart-supervisor-theta.vercel.app/
 
 Smart Supervisor is an AI-powered academic supervision platform designed to help university students improve their Final Year Projects (FYPs) and help supervisors streamline project evaluation and guidance. It provides AI-assisted academic feedback, support for SRS/SDD documentation guidelines, and supervisor meeting requests in one platform.
 
@@ -206,16 +203,7 @@ Smart Supervisor is an AI-powered academic supervision platform designed to help
 
 ---
 
-## 🌐 More live projects
 
-<!-- [EDIT] Copy one row per live project. Keep each description to one sentence. -->
-
-| Project | What it does | Stack | Live |
-|---|---|---|---|
-| **[EDIT: project name]** | [EDIT: one-sentence description] | [EDIT: e.g. LangGraph, FastAPI, Next.js] | [EDIT: https://your-live-link](https://your-live-link) |
-| **[EDIT: project name]** | [EDIT: one-sentence description] | [EDIT: stack] | [EDIT: https://your-live-link](https://your-live-link) |
-
----
 
 ## 🧪 Open-source and learning projects
 
