@@ -1,8 +1,31 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A44E8,100:1B8F69&height=210&section=header&text=Zareen%20Fatima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Workflow%20Architect&descSize=18&descAlignY=58" alt="Zareen Fatima, Agentic AI Engineer" width="100%" />
+
+<a href="https://github.com/ZareenFatima-tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2A44E8&center=true&vCenter=true&width=760&lines=National+Agentic+AI+Hackathon+Winner+%F0%9F%87%B5%F0%9F%87%B0;I+build+production-grade+multi-agent+systems;LangGraph+%7C+CrewAI+%7C+AutoGen+%7C+RAG+%7C+FastAPI;5+live+AI+products+shipped+to+production" alt="Typing animation" /></a>
+
+<br/>
+
+<a href="https://ZareenFatima-tech.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2A44E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/zareen-fatima-596552283/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=zareenfatima114@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+![Status](https://img.shields.io/badge/Status-Open%20for%20projects%20and%20roles-1B8F69?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-4%2B%20years-2A44E8?style=flat-square)
+![Award](https://img.shields.io/badge/National%20Agentic%20AI%20Hackathon-Winner-F5A623?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=ZareenFatima-tech&label=Profile%20views&color=2A44E8&style=flat-square)
+
+</div>
+
+---
+
 ## 👋 About me
 
-I’m an **Full Stack AI Engineer** with **3+ years** of experience designing, building and deploying **production-grade autonomous multi-agent systems** with LangChain, LangGraph, Genkit & Applied AI.
+I’m an **Agentic AI Engineer** with **4+ years** of experience designing, building and deploying **production-grade autonomous multi-agent systems** with LangChain, LangGraph, CrewAI and AutoGen.
 
-I’m the **winner of the National Agentic AI Hackathon (Pakistan) 2025**, have led a team of **7+ engineers across 10+ shipped AI products**, and work fluently with agentic coding tools (**Claude Code, Cursor, Kiro, Antigravity, Bolt**) while keeping rigorous **human-in-the-loop validation**. I structure codebases and specifications so AI-generated output stays reliable and context-efficient, and I turn agentic workflows into measurable business impact.
+I’m the **winner of the National Agentic AI Hackathon (Pakistan)**, have led a team of **7+ engineers across 10+ shipped AI products**, and work fluently with agentic coding tools (**Claude Code, Cursor, Kiro, Antigravity, Bolt**) while keeping rigorous **human-in-the-loop validation**. I structure codebases and specifications so AI-generated output stays reliable and context-efficient, and I turn agentic workflows into measurable business impact.
 
 - 🎓 Currently: **AI Instructor** at NAVTTC Centre of Excellence in Modern Technologies
 - 🚀 Live products: **SehayatVerse**, **UniProtXplore**, **Smart Supervisor**, **Autonomous Fake Medicine Detection** and **MediConnect**
@@ -23,7 +46,7 @@ I’m the **winner of the National Agentic AI Hackathon (Pakistan) 2025**, have 
 
 | | Service | What you get |
 |---|---|---|
-| 🤖 | **Multi-agent systems** | Autonomous agent pipelines with tool calling, state and memory management, and human-in-the-loop checkpoints (LangGraph, langChain, Embeddings, VectorDatabases) |
+| 🤖 | **Multi-agent systems** | Autonomous agent pipelines with tool calling, state and memory management, and human-in-the-loop checkpoints (LangGraph, CrewAI, AutoGen) |
 | 🔎 | **RAG pipelines** | Retrieval systems grounded in your data using Pinecone, FAISS, ChromaDB or Weaviate, with measurable relevance gains |
 | 🧩 | **AI SaaS products** | Full-stack SaaS with auth, billing and deployment, built around purpose-built agents, not one generic chatbot |
 | 🎙️ | **Conversational and voice agents** | Chat and voice (TTS/STT) agents designed for real conversations and edge cases |
@@ -154,6 +177,18 @@ The analysis covers variant impact and stability shifts, druggable pockets and l
 
 **Five specialized agents:** Data Acquisition · Structure–Function Analysis · Chemical Interaction · Literature Intelligence · Insight Synthesis
 
+**Tech stack:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-98%25-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![NGL.js](https://img.shields.io/badge/NGL.js-3D%20viewer-2A44E8?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+| Layer | Technologies |
+|---|---|
+| **Backend** | FastAPI, LangGraph, Python 3.10 |
+| **Frontend** | TypeScript, TailwindCSS, NGL.js (3D molecular viewer) |
+| **APIs / data** | UniProt, PDBe, AlphaFold, ChEMBL, DrugBank, PubMed |
+| **AI** | Google Gemini 2.5 Flash |
+| **Auth and billing** | Supabase |
+
+**💻 Code:** [Frontend repo](https://github.com/ZareenFatima-tech/UniProt-Xplore-frontend)
+
 ```mermaid
 flowchart LR
     ID[UniProt ID] --> P[8-stage multi-agent pipeline]
@@ -166,6 +201,7 @@ flowchart LR
     P --> R[Synthesized protein profile]
 ```
 
+---
 
 ### 🎓 Smart Supervisor: AI academic evaluation and FYP supervision portal
 **🔗 Live:** [smart-supervisor-theta.vercel.app](https://smart-supervisor-theta.vercel.app/) · **💻 Code:** [GitHub](https://github.com/ZareenFatima-tech/Smart-Supervisor)
