@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A44E8,100:1B8F69&height=210&section=header&text=Zareen%20Fatima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Workflow%20Architect&descSize=18&descAlignY=58" alt="Zareen Fatima, Agentic AI Engineer" width="100%" />
@@ -10,7 +8,7 @@
 
 <a href="https://ZareenFatima-tech.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2A44E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/zareen-fatima-596552283/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:zareenfatima114@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=zareenfatima114@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -58,10 +56,10 @@ I’m the **winner of the National Agentic AI Hackathon (Pakistan)**, have led a
 
 ```mermaid
 flowchart LR
-    A[Discovery and scope] --> B[Agent and system design]
-    B --> C[Build with human-in-the-loop validation]
-    C --> D[Test and deploy]
-    D --> E[Handover and support]
+    A["Discovery and scope"] --> B["Agent and system design"]
+    B --> C["Build with human-in-the-loop validation"]
+    C --> D["Test and deploy"]
+    D --> E["Handover and support"]
 ```
 
 ---
@@ -139,34 +137,46 @@ flowchart LR
 ### 🏥 SehayatVerse: AI-powered telemedicine and hospital management SaaS
 **🔗 Live:** [sehayatverse.online](https://sehayatverse.online)
 
-Architected a **multi-agent telemedicine and hospital-management platform** connecting patients, hospitals and doctors across the **Middle East and Asia**. Each workflow is driven by a **purpose-built AI agent** rather than a single chatbot.
+An AI-powered **telemedicine, chronic care and hospital-management ecosystem** for the **Middle East, Asia and emerging markets**. I architected the **multi-agent platform** that connects patients, hospitals and doctors, with each workflow driven by a **purpose-built AI agent** rather than a single chatbot.
 
 ```mermaid
 flowchart LR
-    P[Patients] --> S{SehayatVerse platform}
-    H[Hospitals] --> S
-    D[Doctors] --> S
-    S --> A1[Workflow agent 1]
-    S --> A2[Workflow agent 2]
-    S --> A3[Workflow agent N]
+    P["Patients"] --> S["SehayatVerse platform"]
+    H["Hospitals"] --> S
+    D["Doctors"] --> S
+    S --> A1["Workflow agent 1"]
+    S --> A2["Workflow agent 2"]
+    S --> A3["Workflow agent N"]
 ```
 
 ### 🧬 UniProtXplore: autonomous protein intelligence SaaS
 **🔗 Live:** [uni-prot-xplore-frontend-4lnx.vercel.app](https://uni-prot-xplore-frontend-4lnx.vercel.app)
 
-Built an **8-stage autonomous multi-agent pipeline** that unifies data from **six research databases** (UniProt, PDBe, AlphaFold, ChEMBL, DrugBank, PubMed) to turn a **single UniProt ID into a synthesized protein profile in minutes**. Shipped as a **tiered SaaS with Supabase-backed auth and billing**.
+An **8-stage autonomous multi-agent pipeline** that unifies data from **six research databases** (UniProt, PDBe, AlphaFold, ChEMBL, DrugBank, PubMed) and turns a **single UniProt ID into a synthesized protein profile in minutes**. Shipped as a **tiered SaaS** (Free Trial, Lab Plan, Institution) with **Supabase-backed auth and billing**.
+
+**Five specialized agents:** Data Acquisition · Structure–Function Analysis · Chemical Interaction · Literature Intelligence · Insight Synthesis
 
 ```mermaid
 flowchart LR
-    ID[UniProt ID] --> P[8-stage multi-agent pipeline]
-    P --- U[(UniProt)]
-    P --- B[(PDBe)]
-    P --- AF[(AlphaFold)]
-    P --- C[(ChEMBL)]
-    P --- DB[(DrugBank)]
-    P --- PM[(PubMed)]
-    P --> R[Synthesized protein profile]
+    S1["1. Research question"] --> S2["2. Protein identification"]
+    S2 --> S3["3. Knowledge retrieval"]
+    S3 --> S4["4. Structure analysis"]
+    S4 --> S5["5. Mutation interpretation"]
+    S5 --> S6["6. AI scientific reasoning"]
+    S6 --> S7["7. Interactive visualization"]
+    S7 --> S8["8. Scientific report and insights"]
 ```
+
+---
+
+## 🌐 More live projects
+
+<!-- [EDIT] Copy one row per live project. Keep each description to one sentence. -->
+
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| **[EDIT: project name]** | [EDIT: one-sentence description] | [EDIT: e.g. LangGraph, FastAPI, Next.js] | [EDIT: https://your-live-link](https://your-live-link) |
+| **[EDIT: project name]** | [EDIT: one-sentence description] | [EDIT: stack] | [EDIT: https://your-live-link](https://your-live-link) |
 
 ---
 
@@ -287,7 +297,7 @@ Yes. I use Claude Code, Cursor, Antigravity and Bolt to coordinate implementatio
 
 | | |
 |---|---|
-| 📧 **Email** | [zareenfatima114@gmail.com](mailto:zareenfatima114@gmail.com) |
+| 📧 **Email** | zareenfatima114@gmail.com · [write via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=zareenfatima114@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/zareen-fatima-596552283](https://www.linkedin.com/in/zareen-fatima-596552283/) |
 | 🌐 **Portfolio** | [ZareenFatima-tech.github.io](https://ZareenFatima-tech.github.io) *[EDIT: use the exact portfolio link from your CV if different]* |
 | 🏥 **SehayatVerse** | [sehayatverse.online](https://sehayatverse.online) |
@@ -300,4 +310,3 @@ Yes. I use Claude Code, Cursor, Antigravity and Bolt to coordinate implementatio
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A44E8,100:1B8F69&height=110&section=footer" alt="" width="100%" />
 
 </div>
-
