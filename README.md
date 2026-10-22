@@ -14,8 +14,6 @@
 <br/><br/>
 
 ![Status](https://img.shields.io/badge/Status-Open%20for%20projects%20and%20roles-1B8F69?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-4%2B%20years-2A44E8?style=flat-square)
-![Award](https://img.shields.io/badge/National%20Agentic%20AI%20Hackathon-Winner-F5A623?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=ZareenFatima-tech&label=Profile%20views&color=2A44E8&style=flat-square)
 
 </div>
