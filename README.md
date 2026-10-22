@@ -1,24 +1,4 @@
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A44E8,100:1B8F69&height=210&section=header&text=Zareen%20Fatima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Workflow%20Architect&descSize=18&descAlignY=58" alt="Zareen Fatima, Agentic AI Engineer" width="100%" />
-
-<a href="https://github.com/ZareenFatima-tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2A44E8&center=true&vCenter=true&width=760&lines=National+Agentic+AI+Hackathon+Winner+%F0%9F%87%B5%F0%9F%87%B0;I+build+production-grade+multi-agent+systems;LangGraph+%7C+CrewAI+%7C+AutoGen+%7C+RAG+%7C+FastAPI;5+live+AI+products+shipped+to+production" alt="Typing animation" /></a>
-
-<br/>
-
-<a href="https://ZareenFatima-tech.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2A44E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/zareen-fatima-596552283/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=zareenfatima114@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-![Status](https://img.shields.io/badge/Status-Open%20for%20projects%20and%20roles-1B8F69?style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=ZareenFatima-tech&label=Profile%20views&color=2A44E8&style=flat-square)
-
-</div>
-
----
 
 ## 👋 About me
 
