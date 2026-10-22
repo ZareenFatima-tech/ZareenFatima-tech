@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A44E8,100:1B8F69&height=210&section=header&text=Zareen%20Fatima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Workflow%20Architect&descSize=18&descAlignY=58" alt="Zareen Fatima, Agentic AI Engineer" width="100%" />
@@ -25,7 +26,7 @@
 
 I’m an **Agentic AI Engineer** with **4+ years** of experience designing, building and deploying **production-grade autonomous multi-agent systems** with LangChain, LangGraph, CrewAI and AutoGen.
 
-I’m the **winner of the National Agentic AI Hackathon (Pakistan)**, have led a team of **7+ engineers across 10+ shipped AI products**, and work fluently with agentic coding tools (**Claude Code, Cursor, Antigravity, Bolt**) while keeping rigorous **human-in-the-loop validation**. I structure codebases and specifications so AI-generated output stays reliable and context-efficient, and I turn agentic workflows into measurable business impact.
+I’m the **winner of the National Agentic AI Hackathon (Pakistan)**, have led a team of **7+ engineers across 10+ shipped AI products**, and work fluently with agentic coding tools (**Claude Code, Cursor, Kiro, Antigravity, Bolt**) while keeping rigorous **human-in-the-loop validation**. I structure codebases and specifications so AI-generated output stays reliable and context-efficient, and I turn agentic workflows into measurable business impact.
 
 - 🎓 Currently: **AI Instructor** at NAVTTC Centre of Excellence in Modern Technologies
 - 🚀 Live products: **SehayatVerse**, **UniProtXplore**, **Smart Supervisor**, **Autonomous Fake Medicine Detection** and **MediConnect**
@@ -139,9 +140,9 @@ flowchart LR
 |---|---|---|---|
 | 🏥 **SehayatVerse** | AI telemedicine and hospital management SaaS | [sehayatverse.online](https://sehayatverse.online) | Private |
 | 🧬 **UniProtXplore** | Autonomous protein intelligence SaaS | [Open app](https://uni-prot-xplore-frontend-4lnx.vercel.app) | Private |
-| 🎓 **Smart Supervisor** | AI evaluation and supervision portal for final year projects | [Open app](https://smart-supervisor-theta.vercel.app/) | Private |(https://github.com/ZareenFatima-tech/Smart-Supervisor) |
-| 💊 **Fake Medicine Detection** | Autonomous fake medicine verification system | [Open demo](https://fake-medicine-detection-mxg2-p4vdx14dr.vercel.app/) | Private | (https://github.com/ZareenFatima-tech/Fake-Medicine-Detection) |
-| 🩺 **MediConnect** | Online clinic appointment booking for Pakistan | [Open app](https://medi-connect-pakistan.vercel.app/) | Private | (https://github.com/ZareenFatima-tech/MediConnectPakistan) |
+| 🎓 **Smart Supervisor** | AI evaluation and supervision portal for final year projects | [Open app](https://smart-supervisor-theta.vercel.app/) | [GitHub](https://github.com/ZareenFatima-tech/Smart-Supervisor) |
+| 💊 **Fake Medicine Detection** | Autonomous fake medicine verification system | [Open demo](https://fake-medicine-detection-mxg2-p4vdx14dr.vercel.app/) | [GitHub](https://github.com/ZareenFatima-tech/Fake-Medicine-Detection) |
+| 🩺 **MediConnect** | Online clinic appointment booking for Pakistan | [Open app](https://medi-connect-pakistan.vercel.app/) | [GitHub](https://github.com/ZareenFatima-tech/MediConnectPakistan) |
 
 ---
 
@@ -179,14 +180,13 @@ The analysis covers variant impact and stability shifts, druggable pockets and l
 
 ```mermaid
 flowchart LR
-    ID[UniProt ID] --> P[8-stage multi-agent pipeline]
-    P --- U[(UniProt)]
-    P --- B[(PDBe)]
-    P --- AF[(AlphaFold)]
-    P --- C[(ChEMBL)]
-    P --- DB[(DrugBank)]
-    P --- PM[(PubMed)]
-    P --> R[Synthesized protein profile]
+    S1["1. Research question"] --> S2["2. Protein identification"]
+    S2 --> S3["3. Knowledge retrieval"]
+    S3 --> S4["4. Structure analysis"]
+    S4 --> S5["5. Mutation interpretation"]
+    S5 --> S6["6. AI scientific reasoning"]
+    S6 --> S7["7. Interactive visualization"]
+    S7 --> S8["8. Scientific report and insights"]
 ```
 
 ---
@@ -315,13 +315,26 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,html,css,pytorch,tensorflow,opencv,fastapi,flask,docker,git,github,githubactions,supabase,vercel,linux&perline=9" alt="Tech stack icons" />
 
+<br/><br/>
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-2A44E8?style=for-the-badge&logo=probot&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-1B8F69?style=for-the-badge&logo=sparkle&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-8E44FF?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
 </div>
 
 | Area | Tools |
 |---|---|
 | **Agentic frameworks and orchestration** | LangChain, LangGraph, AutoGen, CrewAI, multi-agent pipelines, tool/function calling, state and memory management, human-in-the-loop design |
-| **Agentic coding tools** | Claude Code, Cursor, Antigravity, Bolt, GitHub Copilot-style workflows |
-| **LLM integration and fine-tuning** | GPT-4, Mistral, LLaMA, OpenRouter, Hugging Face Transformers, prompt engineering, domain fine-tuning |
+| **Agentic coding tools** | Claude Code, Cursor, Kiro, Antigravity, Bolt, GitHub Copilot-style workflows |
+| **Generative AI and LLM integration** | OpenAI (GPT-4), Mistral, LLaMA, OpenRouter, Hugging Face Transformers, Generative AI applications, prompt engineering, domain fine-tuning |
+| **Automation** | Make.com workflow automation, tool and API integrations around AI agents |
 | **RAG and vector databases** | Pinecone, FAISS, ChromaDB, Weaviate, retrieval-augmented generation, semantic search |
 | **API and backend** | FastAPI, Node.js, Express, REST API design and integration, Streamlit, Docker, Supabase |
 | **Frontend** | JavaScript, HTML, CSS |
@@ -407,7 +420,7 @@ Email me a short description of what you want to build. I’ll reply with questi
 <details>
 <summary><b>Do you work with AI coding tools?</b></summary>
 
-Yes. I use Claude Code, Cursor, Antigravity and Bolt to coordinate implementation across large codebases, with human-in-the-loop review at every important step.
+Yes. I use Claude Code, Cursor, Kiro, Antigravity and Bolt to coordinate implementation across large codebases, with human-in-the-loop review at every important step.
 </details>
 
 ---
@@ -417,7 +430,7 @@ Yes. I use Claude Code, Cursor, Antigravity and Bolt to coordinate implementatio
 | | |
 |---|---|
 | 📧 **Email** | zareenfatima114@gmail.com · [write via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=zareenfatima114@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/zareen-fatima-596552283](https://www.linkedin.com/in/zareen-agentic-aiengineer/) |
+| 💼 **LinkedIn** | [linkedin.com/in/zareen-fatima-596552283](https://www.linkedin.com/in/zareen-fatima-596552283/) |
 | 🌐 **Portfolio** | [ZareenFatima-tech.github.io](https://ZareenFatima-tech.github.io) |
 | 🏥 **SehayatVerse** | [sehayatverse.online](https://sehayatverse.online) |
 | 🧬 **UniProtXplore** | [uni-prot-xplore-frontend-4lnx.vercel.app](https://uni-prot-xplore-frontend-4lnx.vercel.app) |
